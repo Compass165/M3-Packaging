@@ -1,4 +1,5 @@
-public class GiaiPTBac2 {
+public class PTBac2 {
+
     public static void PTBac2(float a, float b, float c) {
         if (a == 0) {
             if (b == 0) {
@@ -28,4 +29,5 @@ public class GiaiPTBac2 {
         }
 
     }
+
 }

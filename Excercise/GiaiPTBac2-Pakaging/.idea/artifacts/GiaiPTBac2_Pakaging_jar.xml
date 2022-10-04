@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="GiaiPTBac2-Pakaging:jar">
+    <output-path>$PROJECT_DIR$/..</output-path>
+    <root id="archive" name="GiaiPTBac2-Pakaging.jar">
+      <element id="module-output" name="GiaiPTBac2-Pakaging" />
+    </root>
+  </artifact>
+</component>
